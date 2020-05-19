@@ -1,4 +1,4 @@
 FROM openjdk:14-jdk-alpine
 
 RUN apk add --no-cache bash
-RUN apk add curl
+RUN apk add curl vim
